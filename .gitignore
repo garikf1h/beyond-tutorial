@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 # Vagrant
 .vagrant/
+
+#sqlite3
+db.sqlite3
